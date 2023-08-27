@@ -1,0 +1,1512 @@
+Id,eigencentrality,betweenesscentrality
+Wolverine,1,54142.83287
+Dazzler,0.964491,43347.22609
+Storm,0.907934,41352.55945
+"Roberto da Costa (Sunspot, Citizen X)",0.887049,37310.15234
+Captain Marvel (Carol Danvers),0.861005,30172.64345
+Beast,0.844897,29457.90222
+Sabretooth,0.841529,28132.96185
+Laura Kinney (X-23),0.835503,25565.12103
+Rogue,0.825083,24935.38704
+Firestar,0.815387,20986.44505
+Cannonball,0.811812,20594.82706
+Captain America (Steve Rogers),0.796631,18238.18029
+Magneto,0.781618,17458.05234
+"Barnell Bohusk (Beak, Blackwing)",0.772323,16774.78589
+"Kitty Pryde (Shadowcat, Star-Lady)",0.750767,16261.45962
+Spider-Woman,0.741335,15686.98837
+Sunfire,0.729288,14443.15768
+Namor,0.728121,14174.74931
+Spider-Man,0.718678,13758.88892
+Prodigy,0.700083,13492.82477
+Angel (Warren Worthington III),0.690676,13399.74212
+Absorbing Man,0.658143,12651.39777
+Mystique,0.654572,12585.41476
+Iron Man (Tony Stark),0.652758,11727.88456
+Taskmaster,0.629978,11242.07578
+Psylocke,0.628831,11199.23902
+Toad,0.626069,10896.16148
+Emma Frost,0.618036,10743.26071
+Sage,0.611174,10496.45717
+"Monet St. Croix (Penance, M)",0.608641,10357.60508
+Husk,0.607632,10250.503
+Glob Herman,0.606404,9989.071248
+Kid Omega,0.606404,9841.517869
+Sebastian Shaw,0.606404,9725.123874
+Hawkeye,0.604772,9123.09287
+Colossus,0.601178,9069.439455
+Big Bertha,0.587023,9009.010408
+Flatman,0.587023,8862.171351
+Ricochet,0.587023,8685.867389
+Hulk,0.586591,8361.051374
+Loa,0.585816,8332.396996
+Northstar,0.585115,8125.214101
+Black Widow,0.577606,8060.754104
+Stepford Cuckoos,0.575869,7785.665101
+The Thing,0.562646,7785.665101
+Caliban,0.56148,7763.589656
+Aurora,0.559857,7435.057983
+Cable,0.559254,7323.305673
+Skids,0.557648,7263.679698
+Havok,0.556706,7032.358827
+Juggernaut,0.554994,7006.90844
+Lady Mastermind,0.551109,6829.192341
+Magma,0.550787,6798.674828
+Ernst,0.547303,6365.881135
+No-Girl,0.547303,6303.801161
+Falcon,0.545014,6166.119836
+Human Torch (Johnny Storm),0.543251,6031.002577
+Wolfsbane,0.543101,6030.054215
+Gambit,0.541938,5995.65206
+Domino,0.539657,5950.66403
+Fantomex,0.538053,5825.345456
+Deadpool,0.53576,5775.273812
+Nightcrawler,0.535652,5560.505832
+Warpath,0.534513,5520.812496
+Cyclops,0.533103,5422.818496
+Forge,0.532644,5386.722378
+Box,0.532576,5308.458182
+Boom-Boom,0.532254,5306.705461
+Tigra,0.530461,5280.751577
+Elixir,0.529831,5205.977345
+Karma,0.529288,5190.50662
+Bishop,0.528432,4948.671319
+Alchemy,0.525348,4948.671319
+Anole,0.525348,4876.272657
+Armor,0.525348,4851.934773
+Blindfold,0.525348,4830.649375
+Bling,0.525348,4792.908127
+Dust,0.525348,4783.411518
+Frenzy,0.525348,4600.121144
+Hellion,0.525348,4600.121144
+Lifeguard,0.525348,4551.526577
+Match,0.525348,4475.206159
+Mercury,0.525348,4365.48191
+Onyxx,0.525348,4359.394732
+Pixie,0.525348,4286.092018
+Rockslide,0.525348,4237.49037
+Surge,0.525348,4198.568588
+Thunderbird (Neal Shaara),0.525348,4160.890276
+Trance,0.525348,4160.890276
+Daimon Hellstrom,0.521209,4140.076883
+Captain Britain,0.519205,4026.065969
+Invisible Woman,0.51843,3918.612839
+Mentallo,0.518243,3852.278446
+James Madrox,0.518155,3852.278446
+Scorpion,0.518114,3852.278446
+Victoria Hand,0.51386,3852.278446
+Mockingbird,0.510869,3852.278446
+Jean Grey,0.510832,3782.354965
+Rachel Summers,0.510258,3654.990883
+Agent Garza,0.509661,3648.658939
+Iron Patriot,0.509661,3600.649996
+Maria Hill,0.509661,3461.774351
+Nick Fury,0.509661,3421.548909
+"Nick Fury, Jr",0.509661,3372.120344
+Phil Coulson,0.509661,3346.560559
+Quake,0.509661,3269.386127
+Quasar,0.509661,3269.386127
+E.V.A.,0.508944,3269.386127
+Iceman,0.502124,3216.225242
+Phoenix Force,0.50208,3212.45555
+Broo,0.499113,3204.945253
+Dr. Frankenstein,0.499113,3104.736828
+Krakoa,0.499113,3004.805265
+Manuel Enduque,0.499113,2971.566682
+Oya,0.499113,2924.038417
+Black Knight,0.488741,2918.550858
+Professor X,0.482354,2908.636715
+Marrow,0.481552,2852.821073
+Dagger,0.469539,2847.587728
+Whirlwind,0.466374,2820.532035
+Polaris,0.462785,2798.216243
+Silver Samurai,0.460509,2764.43516
+Joseph,0.460257,2736.429089
+Luke Cage,0.456364,2698.616653
+Iron Fist,0.454448,2679.841008
+Quicksilver,0.453861,2627.648153
+Pyro,0.451725,2619.105709
+Cloak,0.450888,2528.359301
+Mimic,0.450888,2511.911718
+Warlock,0.449769,2458.114565
+Angel Salvadore,0.447393,2409.844285
+Xorn Kuan-Yin,0.447393,2334.346007
+Scarlet Witch,0.447367,2325.933281
+Jack O'Lantern,0.447119,2278.468685
+Chamber,0.446154,2235.53386
+Agent H,0.443077,2200.748774
+Agent U,0.443077,2128.737768
+Annihil-Agent 47,0.443077,2072.680082
+Molly Stiles,0.443077,2041.807572
+Valentina de la Fontaine,0.443077,2029.744291
+Dr. Cecilia Reyes,0.441729,1999.40091
+"Douglas Ramsey (Douglock, Cypher)",0.439979,1998.999485
+Revanche,0.435511,1988.756984
+Banshee,0.434512,1983.079098
+Hindsight,0.434253,1937.800955
+Enchantress,0.43179,1925.459742
+Hazmat,0.43179,1883.147505
+Nico Minoru,0.43179,1883.147505
+Speedball (Robbie Baldwin),0.430098,1883.147505
+Hobgoblin,0.428037,1883.147505
+Magik,0.425677,1883.147505
+Moira MacTaggert,0.423819,1869.41266
+Karima Shapandar,0.422393,1869.41266
+Hope Summers,0.421802,1865.737304
+Wonder Man,0.421754,1857.562452
+Blink,0.420394,1796.167765
+Sprite,0.420394,1774.549912
+X-Man,0.420394,1759.296252
+Viper,0.42034,1757.40062
+Doctor Nemesis,0.418835,1703.451348
+ForgetMeNot,0.418835,1699.004792
+Darwin,0.418619,1698.952611
+Longshot,0.418619,1698.952611
+Danger,0.417509,1688.116503
+Hepzibah,0.417037,1662.462579
+Jubilee,0.416513,1649.447508
+Maggott,0.416513,1648.753807
+Bucky Barnes,0.416016,1633.615784
+Songbird,0.415085,1620.151149
+Goldballs,0.415055,1620.151149
+Hijack,0.415055,1620.151149
+Lockheed,0.415055,1604.330993
+Tempus,0.415055,1603.22844
+Triage,0.415055,1600.175348
+Hyperion,0.413987,1555.038766
+Ariel,0.412088,1551.418122
+Cerebra,0.412088,1540.786758
+Changeling,0.412088,1540.786758
+Cipher,0.412088,1508.740486
+Creep,0.412088,1502.200461
+Crosta,0.412088,1492.84808
+Dani Moonstar,0.412088,1492.84808
+Deathlok Prime,0.412088,1487.440149
+Doop,0.412088,1478.505949
+Dr. Kavita Rao,0.412088,1459.777034
+Energizer,0.412088,1451.780353
+Evan Sabah Nur,0.412088,1451.780353
+Eye Boy,0.412088,1451.780353
+Face,0.412088,1451.780353
+Fiz,0.412088,1451.780353
+Genesis,0.412088,1420.260379
+Gentle,0.412088,1381.789997
+Graymalkin,0.412088,1333.382563
+Indra,0.412088,1333.382563
+Ink,0.412088,1333.382563
+Karasu,0.412088,1319.179143
+Kid Gladiator,0.412088,1319.179143
+Kymera,0.412088,1319.179143
+Legion,0.412088,1311.705038
+Luca Aldine,0.412088,1245.280137
+Lucid,0.412088,1220.776999
+Magnetrix,0.412088,1112.082249
+Michaela Ladak,0.412088,1109.059437
+Morph,0.412088,1104.127769
+Nature Girl,0.412088,1097.035041
+Omerta,0.412088,1078.538171
+Petra,0.412088,1073.957682
+Primal,0.412088,1070.247739
+Pulse,0.412088,1068.943028
+Red Lotus,0.412088,1060.055029
+Revenant,0.412088,1054.283738
+Sapna,0.412088,1054.283738
+Scorpion Boy,0.412088,1034.594763
+Shark-Girl,0.412088,1008.086532
+Silent Monk,0.412088,1008.086532
+Slipstream,0.412088,1008.086532
+Sojobo,0.412088,1008.086532
+Squidface,0.412088,1008.086532
+Stacy X,0.412088,1008.086532
+Sunpyre,0.412088,1008.086532
+Sway,0.412088,1008.086532
+Thunderbird (John Proudstar),0.412088,1003.524054
+Transonic,0.412088,969.133733
+Tri-Joey,0.412088,969.133733
+Velocidad,0.412088,969.133733
+Vulcan,0.412088,969.133733
+Warbird,0.412088,950.383471
+Wraith,0.412088,942.490619
+Xorn Shen,0.412088,933.823424
+Zach,0.412088,926.393119
+Zero,0.412088,873.289557
+Ziggy Karst,0.412088,854.632655
+Nova (Richard Rider),0.407845,833.459772
+Selene Gallio,0.39828,833.459772
+Shinobi Shaw,0.39828,819.781629
+Daredevil,0.394747,819.781629
+"Hank Pym (Ant-Man, Wasp, Goliath, Yellowjacket, Giant Man)",0.392886,817.176386
+US Agent,0.392288,817.176386
+Stingray,0.389075,817.176386
+Wasp (Janet Van Dyne),0.385389,812.740984
+She-Hulk (Jen Walters),0.385157,802.791117
+Moondragon,0.381549,786.369473
+Valkyrie,0.380839,773.823977
+Darkhawk,0.379904,762.92617
+Black Panther,0.379164,759.247849
+Master Pandemonium,0.378461,754.633358
+Hercules,0.376561,742.937905
+Hellcat,0.376227,740.016043
+Skein,0.375735,740.016043
+Baron Helmut Zemo,0.375321,740.016043
+Fixer,0.375321,740.016043
+Sandman,0.374362,740.016043
+Sentry,0.374174,710.355802
+Venom,0.373251,706.359945
+Medusa,0.369056,675.398734
+War Machine,0.367975,675.398734
+Doctor Doom,0.366887,671.144446
+Echo,0.365835,649.636269
+Carnage,0.365416,638.732199
+Doctor Druid,0.364543,638.475551
+Thunderstrike,0.364543,621.423359
+Thor Odinson,0.364387,620.863307
+Rage,0.36363,613.68698
+Turbo (Mikey Jeffries),0.36363,608.52729
+White Tiger (Angela del Toro),0.36333,599.089697
+Ant-Man (Scott Lang),0.363298,590.530824
+Mister Fantastic,0.356455,589.784521
+Red Guardian,0.356095,583.837399
+Doctor Voodoo,0.355112,580.68682
+Synapse,0.355112,580.235037
+Vision,0.355112,574.618419
+Machine Man,0.354351,566.798649
+Ares,0.353751,566.798649
+Nocturne,0.35216,566.282757
+Skaar,0.352006,551.462115
+Mantis,0.351924,548.968451
+Red Hulk,0.351312,548.968451
+Power Man,0.351206,548.968451
+Leech,0.350588,548.968451
+Noh-Varr,0.350115,536.277457
+Miss America,0.349419,531.524147
+Whizzer,0.349419,531.524147
+Jocasta,0.349032,529.999538
+Stature,0.349032,529.999538
+Hulkling,0.348617,520.409237
+Pod,0.348617,518.371789
+Squirrel Girl,0.348617,515.507548
+Wiccan,0.348617,502.655483
+Amadeus Cho,0.348513,485.602517
+Ex Nihilio,0.347932,485.602517
+Crystal,0.347134,460.006919
+Norman Osborn,0.345628,448.674571
+3D Man,0.345395,446.267639
+Abyss,0.345395,444.612296
+Agent 13,0.345395,442.256358
+Avenger X,0.345395,434.584273
+Batwing,0.345395,422.756737
+Blade,0.345395,419.304067
+Blue Marvel,0.345395,406.76056
+Butterball,0.345395,392.790301
+Constance Molina,0.345395,392.790301
+Dave Griffith,0.345395,392.790301
+Demolition Man,0.345395,392.790301
+Doorman,0.345395,392.790301
+Elsa Bloodstone,0.345395,380.408654
+Enigma,0.345395,378.321703
+Finesse,0.345395,371.851536
+Fiona,0.345395,370.601378
+Firebird,0.345395,370.601378
+Gilgamesh,0.345395,360.542117
+Good Silva,0.345395,360.542117
+Hollow,0.345395,360.542117
+Hybrid,0.345395,360.542117
+Jack of Hearts,0.345395,360.542117
+Jessica Jones,0.345395,360.542117
+Juston Seyfert,0.345395,359.652931
+Kaluu,0.345395,356.04277
+Lightspeed,0.345395,353.375308
+Living Lightning,0.345395,352.458367
+Machine Teen,0.345395,342.681246
+Madame Web,0.345395,342.681246
+Manifold,0.345395,327.226279
+Marvel Boy,0.345395,320.727672
+Mettle,0.345395,320.727672
+Monica Chang,0.345395,320.727672
+Mr. Immortal,0.345395,320.727672
+Nightmask,0.345395,319.681707
+Patriot,0.345395,315.615653
+Prince of Orphans,0.345395,308.169871
+Protector,0.345395,305.961789
+Pulsar,0.345395,294.724051
+Reptil,0.345395,294.724051
+Rocket Racer,0.345395,294.724051
+Ruby Neal,0.345395,294.724051
+Sersi,0.345395,283.613682
+Shang-Chi,0.345395,276.91843
+Silverclaw,0.345395,276.91843
+Singularity,0.345395,273.998867
+Smasher,0.345395,267.564257
+Soraya Khorasani,0.345395,253.90828
+Spectrum,0.345395,233.60737
+Speed,0.345395,233.60737
+Spider-Girl,0.345395,227.095585
+Star Brand,0.345395,227.095585
+Starfox,0.345395,227.095585
+Striker,0.345395,225.706568
+Swordsman,0.345395,225.043167
+Triathlon,0.345395,225.043167
+Two-Gun Kid,0.345395,214.274958
+Validator,0.345395,208.162431
+Veil,0.345395,208.162431
+Victor Mancha,0.345395,206.574812
+Wasp (Nadia Pym),0.345395,205.932213
+Wiz Kid,0.345395,205.932213
+Exodus,0.344488,205.932213
+Avalanche,0.340908,205.932213
+Dark Beast,0.340294,202.057134
+Lorelei,0.336576,194.967167
+Mammomax,0.336576,194.967167
+Omega Red,0.336576,194.967167
+Peeper,0.336576,194.967167
+Random,0.334135,192.389633
+Shatterstar,0.334058,186.764167
+Strong Guy,0.327794,183.786558
+Mikhail Rasputin,0.327567,179.792501
+Blackout,0.327126,174.336583
+Ant-Man (Eric O'Grady),0.325468,172.326913
+Franklin Richards,0.323394,164.900605
+Justice,0.318524,163.212669
+Deathlok,0.316969,163.212669
+Beautiful Dreamer,0.311484,143.012891
+Erg,0.311484,143.012891
+Fever Pitch,0.311484,143.012891
+Litterbug,0.311484,143.012891
+Sack,0.311484,143.012891
+Kylun,0.308181,143.012891
+Micromax,0.308181,143.012891
+Jackhammer,0.30781,143.012891
+Man-Killer,0.30781,143.012891
+Siryn,0.306673,143.012891
+Living Monolith,0.306078,143.012891
+Arclight,0.305728,143.012891
+Prism,0.305728,143.012891
+Scalphunter,0.305728,143.012891
+Scrambler,0.305728,143.012891
+Andrea von Strucker,0.303952,143.012891
+Andreas von Strucker,0.303952,143.012891
+Batroc,0.303952,141.91625
+Crossbones,0.303952,138.898864
+Ogre,0.303952,124.301337
+Amelia Voght,0.303726,124.301337
+Tempo,0.303726,122.974119
+Diamond Lil,0.299176,103.182802
+Jack Norriss,0.295273,103.182802
+Empath,0.295212,103.182802
+Black Box,0.289995,91.220083
+Catiana,0.289995,91.220083
+Collective Man,0.289995,91.220083
+Dragoness,0.289995,87.341539
+Gamesmaster,0.289995,82.949428
+Gateway,0.289995,67.914395
+Icarus,0.289995,67.914395
+"James Braddock, Jr",0.289995,65.979201
+Jazz,0.289995,63.315403
+Johnny Dee,0.289995,62.409174
+Kiden,0.289995,60.581407
+Lila Cheney,0.289995,54.654626
+Matt Landru,0.289995,51.423493
+Meld,0.289995,50.890425
+Mister M,0.289995,49.869297
+Molly Hayes,0.289995,36.175849
+Neurotap,0.289995,36.175849
+Outlaw,0.289995,36.175849
+Purple Woman,0.289995,36.175849
+Quill,0.289995,36.175849
+Rhapsody,0.289995,36.175849
+Sabra,0.289995,36.175849
+Tree Man,0.289995,36.175849
+Ursa Major,0.289995,32.459874
+Vange,0.289995,32.459874
+Wallflower,0.289995,32.459874
+Wither,0.289995,29.490234
+Wolf Cub,0.289995,29.490234
+M.O.D.O.K.,0.280476,13.179245
+Grim Reaper,0.280214,13.179245
+Moonstar,0.280102,13.179245
+Psi-Borg,0.278848,13.179245
+Silverfox,0.278848,13.179245
+Gorgon,0.265996,8.213613
+Veranke,0.264152,5.045062
+Chimera,0.262714,4.720765
+Arthur Perry,0.261273,0
+Shocker,0.260622,0
+Sharon Carter,0.252698,0
+Chameleon,0.251453,0
+Witchfire,0.247739,0
+Mudbug,0.247414,0
+Snot,0.247414,0
+Diamondback,0.245307,0
+Hit-Monkey,0.243404,0
+Scott Adsit,0.243404,0
+Jack Flag,0.242154,0
+Sin,0.240492,0
+"Richard Jones (A-Bomb, Whisperer)",0.239197,0
+Man-Thing,0.237459,0
+Blur,0.236312,0
+Abigail Brand,0.233375,0
+Adam,0.233375,0
+Agent 22,0.233375,0
+Agent 33,0.233375,0
+Agent Bradley,0.233375,0
+Agent Carstairs,0.233375,0
+Agent Cheesecake,0.233375,0
+Agent Coletti,0.233375,0
+Agent Crimson,0.233375,0
+Agent Davis,0.233375,0
+Agent Deems,0.233375,0
+Agent Farrell,0.233375,0
+Agent Fitz,0.233375,0
+Agent Goldman,0.233375,0
+Agent Gomez,0.233375,0
+Agent Gorman,0.233375,0
+Agent Hayes,0.233375,0
+Agent Hook,0.233375,0
+Agent Hope,0.233375,0
+Agent L,0.233375,0
+Agent Lindsay,0.233375,0
+Agent M,0.233375,0
+Agent Marquez,0.233375,0
+Agent Mason,0.233375,0
+Agent May,0.233375,0
+Agent McAllister,0.233375,0
+Agent Owen,0.233375,0
+Agent Preston,0.233375,0
+Agent Simmons,0.233375,0
+Agent Simon,0.233375,0
+Agent Solomon,0.233375,0
+Agent Tiger,0.233375,0
+Agent Vaughn,0.233375,0
+Agent Warrick,0.233375,0
+Agent Waynesboro,0.233375,0
+Agent Whitaker,0.233375,0
+Agent Whitman,0.233375,0
+Alex DePaul,0.233375,0
+Alexander Pierce,0.233375,0
+Alisandre Morales,0.233375,0
+Annie Wong,0.233375,0
+Arabian Knight,0.233375,0
+Balaban,0.233375,0
+Beck Lockhart,0.233375,0
+Bev Sykes,0.233375,0
+Captain Koenig,0.233375,0
+Charles Dalton,0.233375,0
+Chastity McBryde,0.233375,0
+Chief Chang,0.233375,0
+Clay Quartermain,0.233375,0
+Daisy Johnson,0.233375,0
+Daman Veteri,0.233375,0
+Derek Malloy,0.233375,0
+Dr. Erik Selvig,0.233375,0
+Druid,0.233375,0
+Dum Dum Dugan,0.233375,0
+Ellis Love,0.233375,0
+Eric Koenig,0.233375,0
+Free Spirit,0.233375,0
+G.W. Bridge,0.233375,0
+Gabe Jones,0.233375,0
+Gaffer,0.233375,0
+Glyph,0.233375,0
+Grant Ward,0.233375,0
+Harry Zviens,0.233375,0
+Jack Truman,0.233375,0
+Jake Oh,0.233375,0
+Jasper Sitwell,0.233375,0
+Jebediah Young,0.233375,0
+Jenna Carlisle,0.233375,0
+Jimmy Woo,0.233375,0
+Joaquin Pennysworth,0.233375,0
+John Garrett,0.233375,0
+Joseph Bricklemoore,0.233375,0
+Kali Vries,0.233375,0
+Key,0.233375,0
+Ludlow Grimes,0.233375,0
+M-80,0.233375,0
+Major Hauer,0.233375,0
+Manphibian,0.233375,0
+Mary Parker,0.233375,0
+Melinda Leucenstern,0.233375,0
+Nancy Winters,0.233375,0
+Network Nina,0.233375,0
+Nicole Orr,0.233375,0
+Override,0.233375,0
+Patricia Wolman,0.233375,0
+Paul Kraye,0.233375,0
+R.O.B.,0.233375,0
+Randall Jessup,0.233375,0
+Redeemer,0.233375,0
+Richard Parker,0.233375,0
+Rick Stoner,0.233375,0
+Sal Kennedy,0.233375,0
+Sheva Joseph,0.233375,0
+Silk,0.233375,0
+Star Carter,0.233375,0
+Teen Abomination,0.233375,0
+Tony Masters,0.233375,0
+Vampire by Night,0.233375,0
+Warwolf,0.233375,0
+Zhang Heng,0.233006,0
+Andrea Janson,0.230677,0
+Answer,0.230677,0
+Antwoin Molare,0.230677,0
+Arnim Zola,0.230677,0
+Arnold Brown,0.230677,0
+Arthur Woodman,0.230677,0
+Assassin,0.230677,0
+Atua-Thaugul,0.230677,0
+Baron Wolfgang von Strucker,0.230677,0
+Bestial,0.230677,0
+Bitmap,0.230677,0
+Bob,0.230677,0
+Bob Oppenheim,0.230677,0
+Bowman,0.230677,0
+Bronskon,0.230677,0
+Bull's Eye,0.230677,0
+Cassandra Romulus,0.230677,0
+Catalyst,0.230677,0
+Chancellor Cassandra,0.230677,0
+Charles Atkins,0.230677,0
+Codename: Bravo,0.230677,0
+Commander Kraken,0.230677,0
+Connely,0.230677,0
+Cool Million,0.230677,0
+Corrosion,0.230677,0
+Crippler,0.230677,0
+Crown,0.230677,0
+Dakini,0.230677,0
+Daniel Whitehall,0.230677,0
+Deadmaker,0.230677,0
+Deltite,0.230677,0
+Dennis Bowden,0.230677,0
+Dismember,0.230677,0
+Dmitri Petrovich,0.230677,0
+Doc Locke,0.230677,0
+Doctor Faustus,0.230677,0
+Dr. Emil Kreagan,0.230677,0
+Edgar Lascombe,0.230677,0
+El Jaguar,0.230677,0
+Elisa Sinclair,0.230677,0
+Elliot Kohl,0.230677,0
+Elsbeth von Strucker,0.230677,0
+Elsie Carson,0.230677,0
+Eric Saltz,0.230677,0
+Fox,0.230677,0
+Frank,0.230677,0
+Gargoyle Brother One,0.230677,0
+Gargoyle Brother Two,0.230677,0
+Garotte,0.230677,0
+Geist,0.230677,0
+George Fistal,0.230677,0
+Gerald Richter,0.230677,0
+Guillotine,0.230677,0
+Hammer,0.230677,0
+Hardball,0.230677,0
+High-Zero,0.230677,0
+Hive,0.230677,0
+Horst Eisele,0.230677,0
+Host,0.230677,0
+Hydra Queen,0.230677,0
+I'xx'll'tk,0.230677,0
+Infomorph,0.230677,0
+Innards,0.230677,0
+Ivan Trevkov,0.230677,0
+Jake Fury,0.230677,0
+James Winderfield,0.230677,0
+Jared Kurtz,0.230677,0
+Julia Crane,0.230677,0
+Kalee Batrel,0.230677,0
+Karl Kraus,0.230677,0
+Killobyte,0.230677,0
+Kitty Drake,0.230677,0
+Knockabout,0.230677,0
+Lance,0.230677,0
+Lance Halstan,0.230677,0
+Lord Drain,0.230677,0
+Lord Falcon,0.230677,0
+Lord Quietus,0.230677,0
+Lt. Gregory Belial,0.230677,0
+Madame Hydra Six,0.230677,0
+Madame Jasmine,0.230677,0
+Madame Worm,0.230677,0
+Malpractice,0.230677,0
+Mammoth,0.230677,0
+Militant,0.230677,0
+Mindstorm,0.230677,0
+Moorek,0.230677,0
+Morgan Cur,0.230677,0
+Mother of Pearl,0.230677,0
+Ms. Diaz,0.230677,0
+Nancy Winderfield,0.230677,0
+Nikolaus Geist,0.230677,0
+Number 16,0.230677,0
+Number 72,0.230677,0
+Otto Vermis,0.230677,0
+Philomena Kensington,0.230677,0
+Pyre,0.230677,0
+Ralph Sanzetti,0.230677,0
+Red Skull,0.230677,0
+Richard Fisk,0.230677,0
+Ron Takimoto,0.230677,0
+Rotwrap,0.230677,0
+Rudolf Kranz,0.230677,0
+Sathan,0.230677,0
+Scylla,0.230677,0
+Silvermane,0.230677,0
+Simon Mycroft,0.230677,0
+Simon Valk,0.230677,0
+Sorrowful Maiden,0.230677,0
+Space Phantom,0.230677,0
+Steel Collar,0.230677,0
+Superior Octopus,0.230677,0
+Tactical Force,0.230677,0
+Technospike,0.230677,0
+The Confessor,0.230677,0
+The Ghast,0.230677,0
+The Ghoul,0.230677,0
+The Hound,0.230677,0
+Troy,0.230677,0
+Urgoth Krall,0.230677,0
+Venomm,0.230677,0
+Vincente Fortunato,0.230677,0
+Violence,0.230677,0
+Vladimir Korda,0.230677,0
+Warlord,0.230677,0
+Werner von Strucker,0.230677,0
+Whale,0.230677,0
+Wildpride,0.230677,0
+William Darvin,0.230677,0
+William Fields,0.230677,0
+Wirehead,0.230677,0
+Wolfen,0.230677,0
+Xao,0.230677,0
+Yellowclaw,0.230677,0
+Yith,0.230677,0
+Black Tom Cassidy,0.230434,0
+Sauron,0.230434,0
+Candy Southern,0.227733,0
+Masque,0.197507,0
+Moonstone,0.193321,0
+Beetle,0.192715,0
+Cyclone,0.190659,0
+Lord Deathstrike,0.187936,0
+Night Thrasher (Dwayne Taylor),0.187221,0
+Black Mamba,0.182007,0
+Atlas,0.180418,0
+Mister Hyde,0.180418,0
+Whiplash,0.180418,0
+Boomerang,0.178144,0
+Doctor Octopus,0.178144,0
+Killer Shrike,0.178144,0
+Eel,0.171768,0
+Aqueduct,0.164576,0
+Joystick,0.164576,0
+Quicksand,0.164576,0
+Radioactive Man,0.164576,0
+Slyde,0.164576,0
+Vanisher,0.164332,0
+Overmind,0.161938,0
+Blackheart,0.158206,0
+Howard Stark,0.157135,0
+Alan Wilson,0.154413,0
+Anton Pierce,0.154413,0
+Azazel,0.154413,0
+Bianca LaNeige,0.154413,0
+Briar Raleigh,0.154413,0
+Charles Grey,0.154413,0
+Commander Clinton,0.154413,0
+Conrad Strathdee,0.154413,0
+Cordelia Frost,0.154413,0
+Cornelius Shaw,0.154413,0
+Diana Knight,0.154413,0
+Dog Logan,0.154413,0
+Donald Pierce,0.154413,0
+Dr. Xanto Starblood,0.154413,0
+Duncan Munro,0.154413,0
+Edward Buckman,0.154413,0
+Eleanor Grey,0.154413,0
+Elias Bogan,0.154413,0
+Elizabeth Shaw,0.154413,0
+Emma Steed,0.154413,0
+Emmanuel da Costa,0.154413,0
+Esau Shaw,0.154413,0
+Ezekiel Stane,0.154413,0
+Franz,0.154413,0
+Friedrich von Roehm,0.154413,0
+Gerhard van Ostamgen,0.154413,0
+Gordon Philips,0.154413,0
+Harry Leland,0.154413,0
+Harry Manners,0.154413,0
+Infestation,0.154413,0
+Jacob Shaw,0.154413,0
+Jacqueline Falsworth,0.154413,0
+"James Braddock, Sr",0.154413,0
+Jane Hampshire,0.154413,0
+Jason Wyngarde,0.154413,0
+John Stuart,0.154413,0
+John Wilkes,0.154413,0
+Kathryn Worthington,0.154413,0
+Kenneth Krask,0.154413,0
+Kevin Krask,0.154413,0
+Kid Blackheart,0.154413,0
+Lady Grey,0.154413,0
+Liu Wo-Han,0.154413,0
+Lord Braddock,0.154413,0
+Lourdes Chantel,0.154413,0
+Madeline Pryor,0.154413,0
+Malkin Grey,0.154413,0
+Mandame Mondo,0.154413,0
+Margali Szardos,0.154413,0
+Mercedes,0.154413,0
+Molyneux,0.154413,0
+Montgomery Falsworth,0.154413,0
+Mountjoy,0.154413,0
+Mr. Shaw,0.154413,0
+Ms. Cabot,0.154413,0
+Oliver Ryland,0.154413,0
+Paris Seville,0.154413,0
+Patrick Clemens,0.154413,0
+Quentin Templeton,0.154413,0
+Ronald Parvenue,0.154413,0
+Salome,0.154413,0
+Sir Francis Dashwood,0.154413,0
+Szandor Shaw,0.154413,0
+The Philistine,0.154413,0
+Tin Man,0.154413,0
+Trevor Fitzroy,0.154413,0
+Turner,0.154413,0
+Veronica Southern,0.154413,0
+Wallace,0.154413,0
+Wallace Worthington,0.154413,0
+Waltham Pierce,0.154413,0
+Warren Worthington Jr,0.154413,0
+Wendigo,0.154413,0
+Wilhelmina Kensington,0.154413,0
+Wolfgang von Roehm,0.154413,0
+Amora,0.152654,0
+Daken,0.146423,0
+Scourge,0.143912,0
+Doctor Strange,0.143709,0
+Slither,0.142292,0
+Harry Pizer,0.140898,0
+Mesmero,0.140898,0
+Bulldozer,0.13935,0
+Thunderball,0.13935,0
+Ulysses Klaw,0.13935,0
+Wrecker,0.13935,0
+Namorita,0.138957,0
+Thornn,0.131784,0
+Scorcher,0.130479,0
+Squid,0.130479,0
+Grey Gargoyle,0.12923,0
+Constrictor,0.126924,0
+Titania,0.1248,0
+Bushmaster,0.122551,0
+Princess Python,0.122352,0
+Puff Adder,0.122352,0
+Silver Surfer,0.121244,0
+Ironclad,0.120236,0
+Vapor,0.120236,0
+Vector,0.120236,0
+X-Ray,0.120236,0
+Blindspot,0.120107,0
+Dragonfly,0.119628,0
+Gypsy Moth,0.119628,0
+Piledriver,0.119628,0
+Tiger Shark,0.119628,0
+Hydro-Man,0.117897,0
+Rictor,0.115375,0
+Ghost Rider,0.113942,0
+Feral,0.113858,0
+Bi-Beast,0.112352,0
+Melter (Bruno Horgan),0.112352,0
+Morg,0.110594,0
+Madcap,0.109983,0
+Speed Demon,0.106185,0
+Skurge,0.102773,0
+Red She-Hulk,0.102757,0
+Satannish,0.102185,0
+Moon Knight,0.099251,0
+King Cobra,0.099122,0
+Rattler,0.099122,0
+Alex Wilder,0.098175,0
+Anachronism,0.098175,0
+Baron Heinrich Zemo,0.098175,0
+Bison,0.098175,0
+Black Talon,0.098175,0
+Bloodstone,0.098175,0
+Brothers Grimm,0.098175,0
+Cardinal,0.098175,0
+Carrion,0.098175,0
+Chase Stein,0.098175,0
+Coat of Arms,0.098175,0
+Crimson Cowl,0.098175,0
+Crossfire,0.098175,0
+Death Locket,0.098175,0
+Diablo,0.098175,0
+Egghead,0.098175,0
+Excavator,0.098175,0
+Executioner,0.098175,0
+Firebrand,0.098175,0
+Flying Tiger,0.098175,0
+Gargantua,0.098175,0
+Griffin,0.098175,0
+Icemaster,0.098175,0
+Lady Stilt-Man,0.098175,0
+Lascivous,0.098175,0
+Letha,0.098175,0
+Lodestone,0.098175,0
+Machinesmith,0.098175,0
+Madame Masque,0.098175,0
+Mako,0.098175,0
+Man-Ape,0.098175,0
+Max-Fury,0.098175,0
+Melter (Christopher Colchiss),0.098175,0
+Miss Coriander,0.098175,0
+Oddball,0.098175,0
+Pink Pearl,0.098175,0
+Porcupine,0.098175,0
+Powderkeg,0.098175,0
+Radioactive Kid,0.098175,0
+Ringer,0.098175,0
+Screaming Mimi,0.098175,0
+Shatterfist,0.098175,0
+Shockwave,0.098175,0
+Sunstroke,0.098175,0
+Supercharger,0.098175,0
+Tinkerer,0.098175,0
+Ultron,0.098175,0
+Vengeance,0.098175,0
+Yellowjacket (Rita DeMara),0.098175,0
+Copycat,0.097626,0
+Satana Hellstrom,0.096475,0
+Wild Child,0.094737,0
+Blob,0.094456,0
+Crimson Commando,0.094456,0
+Destiny,0.094456,0
+Ardina,0.092218,0
+Alpha,0.090124,0
+Astra,0.090124,0
+Basilisk,0.090124,0
+Burner,0.090124,0
+Cleevus,0.090124,0
+Lifter,0.090124,0
+Mastermind,0.090124,0
+Omega Black,0.090124,0
+Omega White,0.090124,0
+Phantazia,0.090124,0
+Post,0.090124,0
+Sabre,0.090124,0
+Shadow King,0.090124,0
+Unus,0.090124,0
+Rusty Collins,0.090055,0
+Ajaxis,0.089779,0
+Amazon,0.089779,0
+Blackheath,0.089779,0
+Blacklash,0.089779,0
+Blizzard,0.089779,0
+Bloodstrike,0.089779,0
+Bullseye,0.089779,0
+Centurius,0.089779,0
+Charcoal,0.089779,0
+Cobalt Man,0.089779,0
+Coronary,0.089779,0
+Ghost,0.089779,0
+Green Goblin,0.089779,0
+Grizzly,0.089779,0
+Harrier,0.089779,0
+Headsman,0.089779,0
+Jester,0.089779,0
+Jolt,0.089779,0
+Kobik,0.089779,0
+Lady Deathstrike,0.089779,0
+Mach-IV,0.089779,0
+Mach-X,0.089779,0
+Mister X,0.089779,0
+Mongoose,0.089779,0
+Ox,0.089779,0
+Paladin,0.089779,0
+Pretty Persuasions,0.089779,0
+Punisher Photon,0.089779,0
+Red Ronin,0.089779,0
+Santana,0.089779,0
+Smiling Tiger,0.089779,0
+Smuggler,0.089779,0
+Snake Marston,0.089779,0
+Tatterdemalion,0.089779,0
+Texas Twister,0.089779,0
+Troll,0.089779,0
+Unicorn,0.089779,0
+Vantage,0.089779,0
+Vermin,0.089779,0
+Pete Wisdom,0.086004,0
+Howard the Duck,0.085078,0
+Nighthawk,0.083931,0
+Lady Bullseye,0.082591,0
+Punisher,0.081599,0
+Benjamin Deeds,0.081165,0
+Andromeda,0.080265,0
+Aragorn,0.080265,0
+Clea,0.080265,0
+Cloud,0.080265,0
+Devil Slayer,0.080265,0
+Gargoyle,0.080265,0
+Interloper,0.080265,0
+Manslaughter,0.080265,0
+Sassafras,0.080265,0
+Drax the Destroyer,0.079359,0
+Puck,0.073505,0
+Madison Jeffries,0.069661,0
+Thundra,0.068241,0
+Artie Maddicks,0.068023,0
+Spiral,0.06771,0
+Armadillo,0.066075,0
+Clown,0.066075,0
+Kraven the Hunter,0.066075,0
+Mirage,0.061718,0
+Vertigo,0.059074,0
+Cadaver,0.056351,0
+Nomad (Jack Monroe),0.056351,0
+Sepulchre,0.056351,0
+Sleepwalker,0.056351,0
+Mister Sinister,0.055236,0
+Ajax,0.054891,0
+Brent Jackson,0.054891,0
+Butler,0.054891,0
+Carla,0.054891,0
+David Andrews,0.054891,0
+Dr. Abraham Cornelius,0.054891,0
+Dr. Adam Harkins,0.054891,0
+Dr. Alba,0.054891,0
+Dr. Carol Hines,0.054891,0
+Dr. Dale Rice,0.054891,0
+Dr. Emrys Killebrew,0.054891,0
+Dr. Martin Sutter,0.054891,0
+Dr. Rich Duncan,0.054891,0
+Dr. Robert Windsor,0.054891,0
+Dr. Sarah Kinney,0.054891,0
+Dr. Vapor,0.054891,0
+Dr. Zander Rice,0.054891,0
+Dr. Zanna Zira,0.054891,0
+Endo,0.054891,0
+Fantomelle,0.054891,0
+Franklin Edwards,0.054891,0
+Jack-in-the-Box,0.054891,0
+John,0.054891,0
+John Merchant,0.054891,0
+John Sublime,0.054891,0
+"John Wraith (Wraith, Kestrel)",0.054891,0
+Junk,0.054891,0
+Kane,0.054891,0
+Kimura,0.054891,0
+Major Arthur Barrington,0.054891,0
+Malcolm Colcord,0.054891,0
+Mastodon,0.054891,0
+Mauvais,0.054891,0
+Maverick,0.054891,0
+Mr. Murray,0.054891,0
+Mr. Willoughby,0.054891,0
+Native,0.054891,0
+Neuro,0.054891,0
+Ogun,0.054891,0
+Professor Thornton,0.054891,0
+Reaper,0.054891,0
+Romulus,0.054891,0
+S.H.I.V.A.,0.054891,0
+Shogun,0.054891,0
+Skel,0.054891,0
+Slayback,0.054891,0
+Sluggo,0.054891,0
+The Director,0.054891,0
+The Professor,0.054891,0
+Todd Ziller,0.054891,0
+Ultimaton,0.054891,0
+Washout,0.054891,0
+Wildside,0.054891,0
+William Stryker,0.054891,0
+Worm,0.054891,0
+Zona Cluster-6,0.054891,0
+Anaconda,0.052877,0
+Boomslang,0.052877,0
+Coachwhip,0.052877,0
+Cobra,0.052877,0
+Cottonmouth,0.052877,0
+Death Adder,0.052877,0
+Fer-de-Lance,0.052877,0
+Sidewinder,0.052877,0
+Bird Boy,0.05279,0
+Gosamyr,0.05279,0
+"Sharon Ventura (Ms. Marvel, She-Thing)",0.049895,0
+Baron Blood,0.04847,0
+Blue Streak,0.04847,0
+Bruto the Strongman,0.04847,0
+Count Nefaria,0.04847,0
+Fera,0.04847,0
+Fire-Eater,0.04847,0
+Graviton,0.04847,0
+Great Gambonnos,0.04847,0
+Living Laser,0.04847,0
+Madame Menace,0.04847,0
+Nitro,0.04847,0
+Regent,0.04847,0
+Ringmaster,0.04847,0
+Teena the Fat Lady,0.04847,0
+Wizard,0.04847,0
+Yellowjacket (Darren Cross),0.04847,0
+Bedlam,0.048046,0
+Electro,0.046409,0
+Slapstick,0.04588,0
+Power Woman,0.044227,0
+Ronin,0.044227,0
+Captain UK,0.044054,0
+Cerise,0.044054,0
+Crusader X,0.044054,0
+Daytripper,0.044054,0
+Feron,0.044054,0
+Meggan,0.044054,0
+Sir Benedict,0.044054,0
+Widget,0.044054,0
+Loki Laufeyson,0.043377,0
+Alex,0.04331,0
+Annalee,0.04331,0
+Ape,0.04331,0
+Bertram,0.04331,0
+Berzerker,0.04331,0
+Bliss,0.04331,0
+Blow-Hard,0.04331,0
+Boost,0.04331,0
+Bouncer,0.04331,0
+Brain Cell,0.04331,0
+Brute,0.04331,0
+Bulk,0.04331,0
+Callisto,0.04331,0
+Carver,0.04331,0
+Chicken Wings,0.04331,0
+Cybelle,0.04331,0
+D'Gard,0.04331,0
+Delphi,0.04331,0
+Ed,0.04331,0
+Ent,0.04331,0
+Ever,0.04331,0
+Healer,0.04331,0
+Hemingway,0.04331,0
+Hump,0.04331,0
+Integer,0.04331,0
+Iron Maiden,0.04331,0
+Irving,0.04331,0
+Jo,0.04331,0
+Joe Bugs,0.04331,0
+Joey,0.04331,0
+Lightning Bug,0.04331,0
+Loss,0.04331,0
+Marilou,0.04331,0
+Marked Man,0.04331,0
+Membrain,0.04331,0
+MeMe,0.04331,0
+Missy,0.04331,0
+Mole,0.04331,0
+Monte,0.04331,0
+Mother Inferior,0.04331,0
+Opsidian,0.04331,0
+Pester,0.04331,0
+Piper,0.04331,0
+Plague,0.04331,0
+Qwerty,0.04331,0
+Revelation,0.04331,0
+Reverb,0.04331,0
+Samson,0.04331,0
+Scaleface,0.04331,0
+Soteira,0.04331,0
+Strigor,0.04331,0
+Sunder,0.04331,0
+Tar Baby,0.04331,0
+Tether,0.04331,0
+Tommy,0.04331,0
+Vessel,0.04331,0
+Wynter,0.04331,0
+Zeek,0.04331,0
+Deathbird,0.043248,0
+Elektra,0.042049,0
+Nova (Frankie Raye),0.041739,0
+Ms. Thing,0.039477,0
+Nova (Sam Alexander),0.036742,0
+Azuma Goda,0.036639,0
+Azumi Ozawa,0.036639,0
+Bakuto,0.036639,0
+Black Lotus,0.036639,0
+Black Tarantula,0.036639,0
+Cherry Blossom,0.036639,0
+Chuck the Dwarf,0.036639,0
+Colleen Wing,0.036639,0
+Fist,0.036639,0
+Hiroshi,0.036639,0
+Izanagi,0.036639,0
+Jonin,0.036639,0
+Kagenobu Yoshioka,0.036639,0
+Kingpin,0.036639,0
+Lu Wei,0.036639,0
+Makoto,0.036639,0
+Makro,0.036639,0
+Mandarin,0.036639,0
+Matsu'o Tsurayaba,0.036639,0
+Reflex,0.036639,0
+Takashi,0.036639,0
+Tiberius Stone,0.036639,0
+Typhoid Mary,0.036639,0
+Yagyu Kojiro,0.036639,0
+Yuki,0.036639,0
+Yutaka,0.036639,0
+Decay,0.035858,0
+Dr. Valerie Cooper,0.034813,0
+Aegis,0.033723,0
+Aja,0.033723,0
+Bolt,0.033723,0
+Debrii,0.033723,0
+Decibel,0.033723,0
+Gauntlet,0.033723,0
+Grace,0.033723,0
+Haechi,0.033723,0
+Helix,0.033723,0
+Hummingbird,0.033723,0
+Kaz,0.033723,0
+Longstrike,0.033723,0
+Microbe,0.033723,0
+Night Thrasher (Donyell Taylor),0.033723,0
+Phaser,0.033723,0
+Powerpax,0.033723,0
+Renascence,0.033723,0
+Ripcord,0.033723,0
+Scarlet Spider (Ben Reilly),0.033723,0
+Scarlet Spider (Kaine Parker),0.033723,0
+Silhouette,0.033723,0
+Skybolt,0.033723,0
+Speedball (Darrion Grobe),0.033723,0
+Sun Girl,0.033723,0
+Tempest,0.033723,0
+Timeslip,0.033723,0
+Turbo (Michiko Musashi),0.033723,0
+Ultragirl,0.033723,0
+Water Snake,0.033723,0
+Wondra,0.033723,0
+Apocalypse (En Sabah Nur),0.033479,0
+Aries,0.033327,0
+Azimuth,0.033327,0
+Blockbuster,0.033327,0
+Coda,0.033327,0
+Hans,0.033327,0
+Harpoon,0.033327,0
+Malice,0.033327,0
+Riptide,0.033327,0
+Susan Hatchi,0.033327,0
+Devil Dinosaur,0.031552,0
+Flux,0.031552,0
+Moon Girl,0.031552,0
+Black Bolt,0.031196,0
+Apocalypse Twins,0.030161,0
+Autumn Rolfson,0.030161,0
+Death (Sanjar Javeed),0.030161,0
+Famine (Jeb Lee),0.030161,0
+Famine (Roderick Campbell),0.030161,0
+Genocide,0.030161,0
+Pestilence (Ichisumi),0.030161,0
+Pestilence (Phantom Bats of the Twelve Minds),0.030161,0
+Pestilence (Plague),0.030161,0
+War (Abraham Kieros),0.030161,0
+War (Decimus Furius),0.030161,0
+War (Gazer),0.030161,0
+Adolf Impossible,0.026152,0
+Ahura,0.026152,0
+Alex Power,0.026152,0
+Bentley,0.026152,0
+Dr. Calvin Cooley,0.026152,0
+Dragon Man,0.026152,0
+Korr,0.026152,0
+Luna,0.026152,0
+Mik,0.026152,0
+Onome,0.026152,0
+Tong,0.026152,0
+Turg,0.026152,0
+Valeria Richards,0.026152,0
+Vil,0.026152,0
+Wu,0.026152,0
+Bentley-23,0.026037,0
+Blastaar,0.026037,0
+Gazele,0.026037,0
+Llyra,0.026037,0
+Lyra,0.026037,0
+Reptilla,0.026037,0
+Superior Carnage,0.026037,0
+The Brute,0.026037,0
+The Wizard,0.026037,0
+Trapster,0.026037,0
+Dr. Toni Ho,0.025687,0
+Archer,0.025569,0
+Fixx,0.025569,0
+Greystone,0.025569,0
+Shard,0.025569,0
+Gamora,0.025339,0
+Star-Lord,0.025339,0
+Anne-Marie Cotrez,0.025193,0
+Barnacle,0.025193,0
+Chrome,0.025193,0
+Delgado,0.025193,0
+Eric Kleinstock,0.025193,0
+Fabian Cortez,0.025193,0
+Gargouille,0.025193,0
+Harlan Kleinstock,0.025193,0
+Javitz,0.025193,0
+Joanna Cargill,0.025193,0
+Kamal,0.025193,0
+Katu,0.025193,0
+Mellencamp,0.025193,0
+Milan,0.025193,0
+Nance Winters,0.025193,0
+Neophyte,0.025193,0
+Omega Sentinel,0.025193,0
+Orator,0.025193,0
+Projector,0.025193,0
+Rakkus,0.025193,0
+Rem-Ram,0.025193,0
+Scanner,0.025193,0
+Senyaka,0.025193,0
+Spoor,0.025193,0
+Static,0.025193,0
+Sven Kleinstock,0.025193,0
+Unuscione,0.025193,0
+Vindaloo,0.025193,0
+Chris Quinn,0.025002,0
+Dr. Mandy O'Connor,0.025002,0
+Beef,0.024321,0
+Bevatron,0.024321,0
+Catseye,0.024321,0
+Jetstream,0.024321,0
+Roulette,0.024321,0
+Tarot,0.024321,0
+8-Ball,0.023485,0
+Bombshell (Lana Baumgartner),0.023485,0
+Bombshell (Lori Baumgartner),0.023485,0
+Delilah,0.023485,0
+Fly,0.023485,0
+Gog,0.023485,0
+Iron Spider,0.023485,0
+Kangaroo,0.023485,0
+Living Brain,0.023485,0
+Lizard,0.023485,0
+Man Mountain Marko,0.023485,0
+Mysterio,0.023485,0
+Overdrive,0.023485,0
+Owl,0.023485,0
+Rhino,0.023485,0
+Scorpia,0.023485,0
+Shriek,0.023485,0
+Spot,0.023485,0
+Swarm,0.023485,0
+Vulture,0.023485,0
+White Tiger (Aya Ayala),0.023219,0
+Adam Warlock,0.023193,0
+Angela,0.023193,0
+Bug,0.023193,0
+Groot,0.023193,0
+Major Victory,0.023193,0
+Martyr,0.023193,0
+Rocket Raccoon,0.023193,0
+Layla Miller,0.022284,0
+Pip the Troll,0.022284,0
+Tier Sinclair,0.022284,0
+Bucky (Fred Davis Jr),0.021688,0
+Destroyer,0.021688,0
+Iron Cross,0.021688,0
+Silver Scorpion,0.021688,0
+Spitfire,0.021688,0
+Union Jack,0.021688,0
+Mondo,0.020878,0
+Ai Apaec,0.020778,0
+American Son,0.020778,0
+Deidre Wentworth,0.020778,0
+MacDonald Gargan,0.020778,0
+Ragnarok,0.020778,0
+Tomi Shishido,0.020778,0
+Toxie Doxie,0.020778,0
+Trickshot,0.020778,0
+Claudette St. Croix,0.020734,0
+Gaia,0.020734,0
+Nicole St. Croix,0.020734,0
+Skin,0.020734,0
+Synch,0.020734,0
+Cul Borson,0.020103,0
+Omega/The Collective,0.019728,0
+Centennial,0.018295,0
+Earthmover,0.018295,0
+Flex,0.018295,0
+Ghost Girl,0.018295,0
+Goblyn,0.018295,0
+Guardian,0.018295,0
+Major Mapleleaf,0.018295,0
+Manbot,0.018295,0
+Mar,0.018295,0
+Marrina,0.018295,0
+Murmur,0.018295,0
+Nemesis,0.018295,0
+Persuasion,0.018295,0
+Radius,0.018295,0
+Sasquatch,0.018295,0
+Shaman,0.018295,0
+Snowbird,0.018295,0
+Talisman,0.018295,0
+Vindicator,0.018295,0
+Windshear,0.018295,0
+Wyre,0.018295,0
+Yukon Jack,0.018295,0
+Dr. Max Brashear,0.017983,0
+Harry Daze,0.017983,0
+Scientist Supreme,0.017983,0
+Tippy-Toe,0.017983,0
+Air-Walker,0.017926,0
+Firelord,0.017926,0
+Blazing Skull,0.016691,0
+Human Torch (Android),0.016691,0
+Radiance,0.016691,0
+Toro,0.016691,0
+William Naslund,0.016691,0
+Binary,0.015452,0
+Captain Kalyx,0.015452,0
+Ch'od,0.015452,0
+Corsair,0.015452,0
+Cr'reee,0.015452,0
+K-Zzat,0.015452,0
+Keeyah,0.015452,0
+Korvus,0.015452,0
+Lilandra Nermani,0.015452,0
+Raza Longknife,0.015452,0
+Sikorsky,0.015452,0
+Tolo Hawk,0.015452,0
+Waldo,0.015452,0
+Attuma,0.014227,0
+Asp,0.01311,0
+Black Racer,0.01311,0
+Copperhead,0.01311,0
+Hela,0.013103,0
+The Hood,0.013023,0
+Anti-Man,0.01301,0
+Fallen One,0.01301,0
+Gah Lak Tus,0.01301,0
+Galactus,0.01301,0
+Kathisul Evin,0.01301,0
+Praeter,0.01301,0
+Recorder,0.01301,0
+Red Shift,0.01301,0
+Stardust,0.01301,0
+Terrax the Tamer,0.01301,0
+Harrison Snow,0.013,0
+Stonewall,0.012461,0
+Super Sabre,0.012461,0
+Foolkiller,0.012393,0
+Gorilla-Man,0.012393,0
+Masacre,0.012393,0
+Negasonic Teenage Warhead,0.012393,0
+Solo,0.012393,0
+Terror,0.012393,0
+Korg,0.009765,0
+She-Hulk (Lyra Walters),0.009765,0
+Andrea Sterman,0.00926,0
+Angel (Thomas Halloway),0.00926,0
+Citizen V (Dallas Riordan),0.00926,0
+Citizen V (John Watkins III),0.00926,0
+"Citizen V (John Watkins, Jr)",0.00926,0
+Citizen V (John Watkins),0.00926,0
+Citizen V (Paulette Brazee),0.00926,0
+Dr. Sam Sabuki,0.00926,0
+Eamonn,0.00926,0
+Fred Davis Jr,0.00926,0
+Golden Girl,0.00926,0
+Golden Sun,0.00926,0
+Goldfire,0.00926,0
+Human Top,0.00926,0
+Irene Martinez,0.00926,0
+Isadora Martinez,0.00926,0
+Nukio,0.00926,0
+Piers,0.00926,0
+Rebel Ralston,0.00926,0
+Topspin,0.00926,0
+Vradec,0.00926,0
+Warbeck,0.00926,0
+Asmodeus,0.007202,0
+Beelzeboul,0.007202,0
+Belasco,0.007202,0
+Dormammu,0.007202,0
+Lucifer Lightbringer,0.007202,0
+Marduk Kurios,0.007202,0
+Mephisto,0.007202,0
+Olivier,0.007202,0
+Pluto,0.007202,0
+Thog the Nether-Spawn,0.007202,0
+Umar the Unrelenting,0.007202,0
+Disco Devil,0.007005,0
+Gadget,0.007005,0
+Gamecock,0.007005,0
+Jennie Royce,0.007005,0
+Jeryn Hogarth,0.007005,0
+Keith Augustin,0.007005,0
+Little Ben Donovan,0.007005,0
+Mangler,0.007005,0
+Marta Cardona,0.007005,0
+Senor Magico,0.007005,0
+Aldrif Odinsdottir,0.00598,0
+Balder Odinson,0.00598,0
+Bor Burison,0.00598,0
+Buri,0.00598,0
+Freyja Freyrdottir,0.00598,0
+Heimdall,0.00598,0
+Odin Borson,0.00598,0
+Tyr Odinson,0.00598,0
+Ve,0.00598,0
+Vili,0.00598,0
+Agent Venom,0.005624,0
+Leader,0.005624,0
+Mercy,0.005624,0
+Tana Nile,0.005212,0
+Adora,0.005189,0
+David Green,0.005189,0
+Eve Bakian,0.005189,0
+Fraktur,0.005189,0
+Freya Shane,0.005189,0
+Garthan Saal,0.005189,0
+Grot,0.005189,0
+Irani Rael,0.005189,0
+Josh Atwater,0.005189,0
+K'thol,0.005189,0
+Kyle Dyne,0.005189,0
+Lindy Nolan,0.005189,0
+Lucas Maats,0.005189,0
+Malik Tarcel,0.005189,0
+Matu,0.005189,0
+Morrow,0.005189,0
+Powerhouse,0.005189,0
+Pyo,0.005189,0
+Qubit,0.005189,0
+Rhomann Dey,0.005189,0
+Robert Rider,0.005189,0
+Samaya,0.005189,0
+Suki Yumiko,0.005189,0
+Tanak Valt,0.005189,0
+Tas'Wzta,0.005189,0
+Torthar,0.005189,0
+Tre Owens,0.005189,0
+Zan Philo,0.005189,0
+Zyziwc Tiel,0.005189,0
+Doctor Spectrum,0.00406,0
+Warrior Woman,0.00406,0
+Archimedes,0.003488,0
+Galileo,0.003488,0
+Imhotep,0.003488,0
+Jabir ibn Hayyan,0.003488,0
+Leonardo da Vinci,0.003488,0
+Lorenzo,0.003488,0
+Michaelangelo Simoni (The Forever Man),0.003488,0
+Nikola Tesla (Night Machine),0.003488,0
+Nostradamus,0.003488,0
+Pietro,0.003488,0
+Sir Isaac Newton,0.003488,0
+Praxagora,0.002855,0
+Ronan the Accuser,0.002855,0
+Talos,0.002855,0
